@@ -1,4 +1,4 @@
-package com.bunnings.utils;
+package utils;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
@@ -7,7 +7,7 @@ import org.openqa.selenium.firefox.FirefoxDriver;
 
 
 
-public class GetBrowserInstance {
+public class GetBrowser {
 	
 	public WebDriver driver;
 	
@@ -31,3 +31,4 @@ public class GetBrowserInstance {
 	
 
 }
+

@@ -7,15 +7,16 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
-import com.bunnings.utils.Constants;
-import com.bunnings.utils.GetBrowserInstance;
+import utils.Constants;
+import utils.GetBrowser;
+
 
 
 
 public class Page {
 	
 	// create instance of web browser
-	GetBrowserInstance browser = new GetBrowserInstance();
+	GetBrowser browser = new GetBrowser();
 	
 	
 	// driver variable
