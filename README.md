@@ -7,8 +7,8 @@ Automation Test
 - Run as TESTNG test
 
 // Tools and Languages used:
--Java
--Selenium WebDriver
+- Java
+- Selenium WebDriver
 
 
 // Framwork
